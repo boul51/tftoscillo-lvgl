@@ -1,0 +1,7 @@
+libs:
+ - ../lib/lvgl
+ - ../lib/TFT_eSPI
+
+cflags:
+ - -DLV_CONF_PATH=$(CURDIR)/lv_conf.h
+ - -I$(CURDIR)
