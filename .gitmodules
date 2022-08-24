@@ -1,0 +1,6 @@
+[submodule "lib/TFT_eSPI"]
+	path = lib/TFT_eSPI
+	url = git@github.com:boul51/TFT_eSPI.git
+[submodule "lib/lvgl"]
+	path = lib/lvgl
+	url = https://github.com/lvgl/lvgl.git
